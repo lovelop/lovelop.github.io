@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(209, 155, 184);
+background: url(fondo.jpg);
+background-size: cover;
+}
+h1{
+  text-align: center;
+  font-size: 60px;
+  color: rgb(175, 89, 115);
+}
+h3{
+  text-align: center;
+  font-size: 30px;
+}
+#contenedor{
+  margin-left: 35vw;
+  margin-top: 5vw;
+  size:100px;
+}
